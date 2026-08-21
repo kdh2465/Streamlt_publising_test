@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python \"C:\\\\Users\\\\dhkim_home\\\\.claude\\\\skills\\\\developing-with-streamlit\\\\scripts\\\\discover.py\" --project-dir \"d:\\\\Streamlt_publising_test\")"
+    ]
+  }
+}
